@@ -1,0 +1,60 @@
+@font-face {
+  font-family: Telegraf;
+  src: url(assest/font/PPTelegraf-Regular.otf);
+}
+@font-face {
+  font-family: TelegrafBold;
+  src: url(assest/font/PPTelegraf-Ultrabold.otf);
+}
+body {
+  background-color: #b1afaf55;
+}
+
+nav {
+  background-color: #0d6efd;
+  font-family: Telegraf;
+}
+.navbar-brand {
+  font-family: TelegrafBold;
+}
+
+.herosec {
+  padding-top: 6rem;
+  background-color: rgb(255, 255, 255);
+}
+
+h1 {
+  padding-top: 1rem;
+  font-family: TelegrafBold;
+}
+p {
+  font-family: Telegraf;
+}
+h2 {
+  padding-bottom: 3rem;
+  font-family: TelegrafBold;
+  font-size: 3rem;
+}
+h3 {
+  font-family: Telegraf;
+  font-size: 2rem;
+}
+h4 {
+  font-family: Telegraf;
+  font-size: 3rem;
+}
+#About {
+  padding-top: 5rem;
+}
+#Skills {
+  padding-top: 5rem;
+  background-color: rgb(255, 255, 255);
+}
+#Portofolio {
+  padding-top: 5rem;
+}
+#Contact {
+  padding-top: 5rem;
+  font-family: Telegraf;
+  background-color: rgb(255, 255, 255);
+}
